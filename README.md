@@ -2,7 +2,7 @@
 
 Protótipo em Python desenvolvido para a disciplina Algoritmos e Lógica de Programação (UniFECAF). O programa recebe os dados de cada peça produzida, decide se ela está aprovada ou reprovada, guarda as aprovadas em caixas de 10 unidades e emite um relatório final.
 
-Vídeo de apresentação: COLE_AQUI_O_LINK_DO_VIDEO
+Vídeo de apresentação: https://youtu.be/wXE4ODj2vns
 
 ## Como funciona
 
